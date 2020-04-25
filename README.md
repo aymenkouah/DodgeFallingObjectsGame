@@ -14,3 +14,5 @@ How to play:
   Use the right and left arrow keys to move and dodge the falling objects
   The game accelerates with time and gets harder and harder
   The score is showed in the end on the console
+  
+ #by the way, there is a small trick that allows you to score hundreds and hundreds without much playing
