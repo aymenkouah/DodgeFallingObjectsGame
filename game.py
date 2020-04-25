@@ -6,6 +6,8 @@
 # https:\\pygame.org
 # Open the read_me file for more info about the game and the playing method
 
+#pay good attention as there is a small trick that allows you to collect points without having to do much dodging(not at all in fact)
+
 
 import pygame
 import sys
